@@ -8,7 +8,7 @@
 
 An interactive Power BI dashboard that analyzes store-level performance across sales, footfall, and inventory turnover — built to help business teams spot underperforming stores and make faster, data-driven decisions.
 
-🔗 **Live Demo:** [Add your demo link here]
+🔗 **Live Demo:** [View Dashboard](https://kugan-29.github.io/Retail-store-performance/)
 
 ---
 
@@ -41,14 +41,10 @@ Retail chains often struggle to compare store performance quickly because data l
 2. Open `dashboard.pbix` in **Power BI Desktop**
 3. Refresh data connections if prompted
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> Add 2–3 dashboard screenshots here (drag & drop into GitHub — they'll auto-embed).
-
-```
-![Dashboard Overview](screenshots/overview.png)
-![Store Comparison](screenshots/store-comparison.png)
-```
+![Dashboard Overview](<img width="1846" height="921" alt="Screenshot 2026-07-23 191203" src="https://github.com/user-attachments/assets/cba196af-6246-4228-a1fa-a71628f3b247" />
+)
 
 ## 📈 Impact
 
