@@ -41,9 +41,6 @@ Retail chains often struggle to compare store performance quickly because data l
 2. Open `dashboard.pbix` in **Power BI Desktop**
 3. Refresh data connections if prompted
 
-## 📸 Screenshot
-
-![Dashboard Overview](overview.png)
 
 ## 📈 Impact
 
