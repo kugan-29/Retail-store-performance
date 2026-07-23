@@ -43,8 +43,7 @@ Retail chains often struggle to compare store performance quickly because data l
 
 ## 📸 Screenshot
 
-![Dashboard Overview](<img width="1846" height="921" alt="Screenshot 2026-07-23 191203" src="https://github.com/user-attachments/assets/cba196af-6246-4228-a1fa-a71628f3b247" />
-)
+![Dashboard Overview](screenshots/overview.png)
 
 ## 📈 Impact
 
